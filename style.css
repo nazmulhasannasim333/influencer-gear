@@ -188,19 +188,24 @@
 /* Footer styles */
 .footer-section {
   width: 100%;
-  background-color: #010114;
+  background-color: #04042f;
   margin-top: 50px;
   padding-top: 50px;
   padding-bottom: 100px;
   text-align: center;
 }
-.footer-section h2 {
+.footer-details h2 {
   font-weight: 700;
   font-size: 24px;
   color: #FFFFFF;
   padding-bottom: 10px;
 }
-.footer-section p {
+.footer-details p {
   color: #D9DBE1;
+}
+.social i{
+  padding: 20px 10px;
+  color: #ffffff;
+  font-size: 20px;
 }
 
