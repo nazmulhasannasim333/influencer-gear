@@ -205,10 +205,11 @@
 
 /* Media Queries */
 @media only screen and (max-width: 576px) {
-  /* .influencer-nav {
+  .influencer-nav {
     display: flex;
     justify-content: center;
   }
+  /*
   .nav-menu ul li{
     display: block;
     margin-top: 20px;
@@ -296,6 +297,10 @@
 }
 
 @media only screen and (min-width: 577px) and (max-width: 992px) {
+  .influencer-nav {
+    display: flex;
+    justify-content: center;
+  }
   .nav-menu{
     display: none;
   }
