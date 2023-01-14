@@ -295,7 +295,7 @@
   }
 }
 
-@media only screen and (min-width: 677px) and (max-width: 992px) {
+@media only screen and (min-width: 577px) and (max-width: 992px) {
   .nav-menu{
     display: none;
   }
